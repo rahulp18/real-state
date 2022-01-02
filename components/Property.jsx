@@ -8,7 +8,8 @@ import { BsGridFill } from 'react-icons/bs';
 import { GoVerified } from 'react-icons/go';
 import millify from 'millify';
 
-const DefaultImage = '';
+const DefaultImage =
+  'https://bayut-production.s3.eu-central-1.amazonaws.com/image/145426814/33973352624c48628e41f2ec460faba4';
 
 const Propoerty = ({
   property: {
